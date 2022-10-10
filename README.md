@@ -1,2 +1,2 @@
 # schooldemo
-Dit is een programmeer voorbeeld voor een basis school les
+Dit is een voorbeeld voor een basisschool les
