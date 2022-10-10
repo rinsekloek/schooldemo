@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-drie   = 3
+aantal = 3
 tekst  = 'Hello world!'
 
-print(tekst * drie)
+print(tekst * aantal)
